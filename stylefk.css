@@ -1,6 +1,3 @@
-*{f
-}
-
 .mynav{
     position:fixed ;
     line-height: 70px;
@@ -21,7 +18,6 @@
     text-decoration: none;
     font-size: normal;
     color: navy;
-    text-align-last:center;
     word-spacing: 10px;
     font-style: normal;
     font-weight: bold;
@@ -35,7 +31,6 @@
     background-color: navy;
     color: white;
     word-spacing:normal;
-    letter height: 10px;
 }
 .contact h1{
     font-weight: bold;
